@@ -5,4 +5,4 @@ this is a step by step guide on making custom liveries for my aircraft
 3. edit it how you like
 4. assign this new texture to the mutator
 5. re-name everything
-6. export
+6. select the mutator object and export
