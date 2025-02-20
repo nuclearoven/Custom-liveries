@@ -10,3 +10,6 @@ this is a step by step guide on making custom liveries for my aircraft
 5. re-name everything
 6. select the mutator object and export
    further instructions here [https://github.com/MianReplicate/Custom-Flags-Framework/tree/stable](https://github.com/MianReplicate/Custom-Flags-Framework/blob/stable/TEMPLATE-INFO.md)
+
+Additional tutorials for
+texture painting
