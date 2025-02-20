@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1450327976445928608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5222062321539068418}
+  - component: {fileID: 6726400015927089120}
+  - component: {fileID: 8570649716227246746}
+  - component: {fileID: 1088778070788855767}
+  m_Layer: 0
+  m_Name: liveries
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5222062321539068418
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450327976445928608}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6726400015927089120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450327976445928608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec3b8824308adc64fb1901cef109132a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mutators:
+  - name: NATO Extra liveries
+    description: "A demonstration of how the intergration with mian\u2019s flag mutator
+      works"
+    menuImage: {fileID: 2800000, guid: ffba5ae18e7cc714db574b675bd8c9a0, type: 3}
+    mutatorPrefab: {fileID: 1450327976445928608}
+    configuration:
+      labels: []
+      integers: []
+      floats: []
+      ranges: []
+      strings: []
+      bools: []
+      dropdowns: []
+--- !u!114 &8570649716227246746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450327976445928608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a53a71c6a7b01e1449208c55b04f1aa8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bools: []
+  ints: []
+  floats: []
+  strings: []
+  vectors: []
+  rotations: []
+  colors:
+  - id: Flag1
+    value: {r: 0, g: 0.20668364, b: 1, a: 0}
+  - id: Flag2
+    value: {r: 0, g: 0, b: 0, a: 0}
+  - id: Flag3
+    value: {r: 0, g: 0.3324184, b: 0.7169812, a: 0}
+  - id: Flag4
+    value: {r: 1, g: 1, b: 1, a: 0}
+  - id: Flag5
+    value: {r: 1, g: 1, b: 1, a: 0}
+  gradients: []
+  textures:
+  - id: Cover
+    value: {fileID: 2800000, guid: 3840635d595ce0d4d952166a447e5366, type: 3}
+  - id: Flag1
+    value: {fileID: 2800000, guid: 6bdd54d7f5fee484aac5e87910550f57, type: 3}
+  - id: Flag2
+    value: {fileID: 2800000, guid: e3ca0abedeeed8e40ae29e2d7b9b1257, type: 3}
+  - id: Flag3
+    value: {fileID: 2800000, guid: 155d80a760f309f4ba30f6e7510e5587, type: 3}
+  - id: Flag5
+    value: {fileID: 2800000, guid: 42c63f8f7fe47b34bbef4b8f8d5370b9, type: 3}
+  - id: Flag6
+    value: {fileID: 2800000, guid: e7f44d225310b3b4ea8b991a10e996b4, type: 3}
+  sprites: []
+  audioClips: []
+  materials: []
+  animationCurves: []
+  fonts: []
+  gameObjects: []
+  skins: []
+  weaponEntries: []
+--- !u!114 &1088778070788855767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450327976445928608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f8ca71ca01d2fb4098cb42abc5eceb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  source: {fileID: 2213920135882650261, guid: 700c4f6cfbbc42b4698164a99c8c7751, type: 3}
+  behaviour: 
+  targets: []
