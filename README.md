@@ -12,4 +12,5 @@ this is a step by step guide on making custom liveries for my aircraft
    further instructions here [https://github.com/MianReplicate/Custom-Flags-Framework/tree/stable](https://github.com/MianReplicate/Custom-Flags-Framework/blob/stable/TEMPLATE-INFO.md)
 
 Additional tutorials for
-texture painting
+[texture painting](https://www.youtube.com/watch?v=9OVvnOh2ZGk)
+[Ravenfield modding](https://ravenfieldgame.com/modding.html)
