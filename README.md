@@ -1,6 +1,6 @@
 # Custom-liveries
 This repository contains the tools to make custom liveries for my aircraft using Mian’s custom flag framework
-All code here was made by MianReplicate https://github.com/MianReplicate/Custom-Flags-Framework/tree/stable
+All code here was made by [MianReplicate](https://github.com/MianReplicate/Custom-Flags-Framework/tree/stable)
 
 this is a step by step guide on making custom liveries for my aircraft
 1. open the fbx or file in your UV editor of choice
