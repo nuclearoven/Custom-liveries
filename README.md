@@ -9,7 +9,7 @@ this is a step by step guide on making custom liveries for my aircraft
 4. assign this new texture to the mutator
 5. re-name everything
 6. select the mutator object and export
-   further instructions [here]([https://github.com/MianReplicate/Custom-Flags-Framework/tree/stable](https://github.com/MianReplicate/Custom-Flags-Framework/blob/stable/TEMPLATE-INFO.md)
+   further instructions [here]([https://github.com/MianReplicate/Custom-Flags-Framework/tree/stable](https://github.com/MianReplicate/Custom-Flags-Framework/blob/stable/TEMPLATE-INFO.md))
 
 Additional tutorials for
 [texture painting](https://www.youtube.com/watch?v=9OVvnOh2ZGk)
