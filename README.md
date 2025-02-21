@@ -12,6 +12,8 @@ this is a step by step guide on making custom liveries for my aircraft
 6. select the mutator object and export
    further instructions [here](https://github.com/MianReplicate/Custom-Flags-Framework/blob/stable/TEMPLATE-INFO.md)
 
+DO NOT EDIT THE MODELS OR CODE
+
 # Additional tutorials
 [texture painting](https://www.youtube.com/watch?v=9OVvnOh2ZGk) and
 [Ravenfield modding](https://ravenfieldgame.com/modding.html)
